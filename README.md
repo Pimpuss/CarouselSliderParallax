@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## 📝 Description :
 
 Carousel de photos (ou autres) sous forme de Slider pouvant changer d'éléments soit en cliquant sur l'élément voulu ou à l'aide des fléches au dessous.
-Ne comporte pas de boucle infinie. 
+Ne comporte pas de boucles infinis. 
 Effet sur chaques images suivant la sourie en X & Y.
 
 ## 📸 ScreenShots :
